@@ -24,6 +24,8 @@ namespace Calculator
             
             short res = short.Parse(Console.ReadLine());
 
+
+
             switch (res)
             {
                 case 1: Soma(); break;
